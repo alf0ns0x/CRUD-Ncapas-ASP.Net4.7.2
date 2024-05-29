@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.dll
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.pdb
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.dll
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.pdb
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CopyComplete
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.dll
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.pdb

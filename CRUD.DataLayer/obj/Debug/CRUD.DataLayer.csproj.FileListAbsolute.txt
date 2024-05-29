@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.dll
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.pdb
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.CopyComplete
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.dll
+C:\Users\Administrador\Desktop\ncapas\CRUD.WebForms\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.pdb
